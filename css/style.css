@@ -1,0 +1,36 @@
+#logoBox{
+    background-color:black;
+    color: black;
+}
+
+.below_top{
+    margin-top: 5%;
+}
+
+.header_align{
+    text-align: center;
+}
+
+
+.a_link{
+    background-color: #3B4248;
+    transition: 0.5s;
+}
+  
+.a_link:hover {
+    background-color: #BAD8AE;
+    border-radius: 10%;
+    transition: 0.3s;
+}
+
+#about_body{
+    text-align: center;
+}
+
+.space_breaks{
+    margin-top: 10%;
+}
+
+/* #companyLogo{
+    border: 4px solid red !important;
+} */
