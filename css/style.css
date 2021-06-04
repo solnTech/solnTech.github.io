@@ -59,12 +59,18 @@ body{
         margin-top: 5%;
         width: 50%;
     }
+    #linkedin_image{
+        width: 20%;
+    }
 }
 
 @media (max-width: 550px) {
     .card{
         margin-top: 5%;
         width: 100%;
+    }
+    #linkedin_image{
+        width: 30%;
     }
 }
 
